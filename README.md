@@ -29,7 +29,7 @@ A novel asynchronos consensus protocol and a mempool achieving 2x more throughpt
 A testing framework designed to evaluate the robustness of over 20 blockchain protocols under adverse conditions.
 
 ## 📚 Publications
-- **QuePaxa**: Published in ACM SOSP 2023
+- **QuePaxa: Escaping the tyranny of timeouts in consensus**: Published in ACM SOSP 2023
 - **Holistic Tail Latency Behaviors of Java Microservices**: Published in IEEE HPCC 2019
 - [Full list of publications](https://scholar.google.com/citations?hl=en&user=U3cXWU0AAAAJ)
 
