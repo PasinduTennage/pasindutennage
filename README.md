@@ -30,7 +30,7 @@ A testing framework designed to evaluate the robustness of over 20 blockchain pr
 
 ## 📚 Publications
 - **QuePaxa: Escaping the tyranny of timeouts in consensus**: Published in ACM SOSP 2023
-- **Holistic Tail Latency Behaviors of Java Microservices**: Published in IEEE HPCC 2019
+- **An Analysis of Holistic Tail Latency Behaviors of Java Microservices**: Published in IEEE HPCC 2019
 - [Full list of publications](https://scholar.google.com/citations?hl=en&user=U3cXWU0AAAAJ)
 
 ## 🌐 Links
