@@ -34,6 +34,7 @@ A testing framework designed to evaluate the robustness of over 20 blockchain pr
 - [Full list of publications](https://scholar.google.com/citations?hl=en&user=U3cXWU0AAAAJ)
 
 ## 🌐 Links
+- [Personal Website](https://pasindutennage.github.io/)
 - [LinkedIn](https://linkedin.com/in/pasindutennage)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=U3cXWU0AAAAJ)
 
