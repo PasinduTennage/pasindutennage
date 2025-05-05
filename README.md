@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Pasindu Tennage, a dedicated **Software Engineer** and
 - **Current Role**: Graduate Research Assistant at EPFL's Decentralized and Distributed Systems Lab (DEDIS).
 - **Education**: 
   - PhD in Computer and Communication Sciences, EPFL, Switzerland (September 2019 -- March 2025).
-  - Master’s and Bachelor’s in Computer Science and Engineering, University of Moratuwa, Sri Lanka.
+  - Bachelor’s in Computer Science and Engineering, University of Moratuwa, Sri Lanka.
 - **Professional Interests**: 
   - Web3 Systems Design.
   - Consensus Protocols.
