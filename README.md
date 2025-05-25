@@ -22,7 +22,7 @@ A scalable DAG-based Byzantine Fault-Tolerant blockchain, reducing latency by 20
 ### [QuePaxa](https://github.com/dedis/quepaxa)
 A novel distributed consensus protocol achieving optimal performance under both synchronous and asynchronous conditions.
 
-### [Mandator-Sporades](https://github.com/ISTA-SPiDerS/Mandator-Sporades)
+### [SADL-RACS](https://github.com/ISTA-SPiDerS/sadl-racs)
 A novel asynchronos consensus protocol and a mempool achieving 2x more throughpt than the state-of-the-art.
 
 ### [Consensus-Torture](https://github.com/dedis/toture-testing-consensus)
