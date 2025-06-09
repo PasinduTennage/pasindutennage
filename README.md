@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I'm Pasindu Tennage, a dedicated **Software Engineer** and **Systems Researcher** specializing in distributed systems, consensus protocols, and Web3 technologies. I have over six years of experience designing and building secure, scalable, and high-performance distributed systems.
 
+![portfolio](github1.jpg)
+
 ## 🔍 About Me
 - **Current Role**: Graduate Research Assistant at EPFL's Decentralized and Distributed Systems Lab (DEDIS).
 - **Education**: 
