@@ -1,11 +1,11 @@
 # Pasindu Tennage
 
-Welcome to my GitHub! I'm Pasindu Tennage, a dedicated **Software Engineer** and **Systems Researcher** specializing in distributed systems, consensus protocols, and Web3 technologies. I have over six years of experience designing and building secure, scalable, and high-performance distributed systems.
+I'm Pasindu Tennage, a **Software Engineer** and **Systems Researcher** specializing in distributed systems, consensus protocols, and Web3 technologies. I have over six years of experience designing and building secure, scalable, and high-performance distributed systems.
 
 ![portfolio](github1.jpg)
 
 ## 🔍 About Me
-- **Current Role**: Graduate Research Assistant at EPFL's Decentralized and Distributed Systems Lab (DEDIS).
+- **Current Role**: Software Engineer at Digital Assets.
 - **Education**: 
   - PhD in Computer and Communication Sciences, EPFL, Switzerland (thesis defended on March 2025).
   - Bachelor’s in Computer Science and Engineering, University of Moratuwa, Sri Lanka (graduated on January 2018).
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm Pasindu Tennage, a dedicated **Software Engineer** and
   - Consensus Protocols.
   - Fault-Tolerant and Scalable Systems.
   - Blockchain Security and Performance Optimization.
-- **Languages**: Go, Rust, Python, Java, C.
+- **Languages**: Go, Python, Java, C, Scala, Rust
 
 
 ## 🚀 Selected Projects
@@ -42,5 +42,3 @@ A testing framework designed to evaluate the robustness of over 20 blockchain pr
 Feel free to reach out to me at **pasindu.tennage@gmail.com**.
 
 ---
-
-Thanks for visiting my GitHub! 😊
